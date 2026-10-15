@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://romashta.beget.tech/sitemap.xml
